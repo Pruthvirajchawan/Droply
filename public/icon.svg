@@ -1,0 +1,11 @@
+<svg viewBox="0 0 120 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="100" rx="24" fill="#4E55E0"/>
+  <g transform="translate(10, 10) scale(0.8)">
+    <!-- Top-Left U-Cup lobe -->
+    <path d="M0 0H46V22C46 34.7 35.7 45 23 45C10.3 45 0 34.7 0 22V0Z" fill="#FFFFFF"/>
+    <!-- Bottom-Left Arch/Dome lobe -->
+    <path d="M0 100V78C0 65.3 10.3 55 23 55C35.7 55 46 65.3 46 78V100H0Z" fill="#FFFFFF"/>
+    <!-- Right Heavy D-Arch with concave star cutouts -->
+    <path d="M56 0H64C94.9279 0 120 22.3858 120 50C120 77.6142 94.9279 100 64 100H56V80C56 68.9543 64.9543 60 76 60C64.9543 60 56 51.0457 56 40V0Z" fill="#FFFFFF"/>
+  </g>
+</svg>

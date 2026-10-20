@@ -1,0 +1,6 @@
+{
+  "name": "Droply",
+  "description": "Discover high-signal internships and hackathons before they disappear. Fresh opportunities, personalized radar, and real-time closing-soon intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
